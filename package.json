@@ -1,0 +1,18 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "the exercise app",
+  "scripts": {
+    "start": "parcel index.html",
+    "bulid": "parcel build index.html"
+  },
+  "author": "omkar sonavale",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.9.3",
+    "parcel": "^2.8.3"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.21.0"
+  }
+}
